@@ -7,5 +7,5 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-# MARVEL_MEDICAL_SYSTEM
+# MARVEL MEDICAL SYSTEM
 ## MARVEL MEDICAL SYSTEM - MMS (Clinic System - Pharmacy System - Laboratory Management System) with Laravel
