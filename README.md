@@ -1,2 +1,3 @@
 # MARVEL_MEDICAL_SYSTEM
-## MARVEL MEDICAL SYSTEM - MMS (Clinic System - Pharmacy System - Laboratory  Management System)  
+## MARVEL MEDICAL SYSTEM - MMS (Clinic System - Pharmacy System - Laboratory  Management System) with Laravel 
+ 
