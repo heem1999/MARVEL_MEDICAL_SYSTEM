@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "D:\\my Projects\\LARAVEL Projects\\LMS serial port"
+		}
+	],
+	"settings": {
+		"formatSelectionAsHtml.htmlWhitespaceSensitivity": "ignore",
+		"formatSelectionAsHtml.formatter": "prettier",
+		"blade.format.enable": true
+	}
+}
